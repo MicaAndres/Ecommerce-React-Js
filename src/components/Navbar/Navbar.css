@@ -1,0 +1,49 @@
+.imgLogo{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    margin-right:20px ;
+}
+
+.liNav{
+   display: flex;
+   justify-content: right;
+   margin-right: 30%;
+   text-decoration: none;
+}
+
+.navBar{
+    display: flex;
+    background: rgb(248, 247, 247);
+    border-bottom: 3px solid rgb(252, 198, 198);
+    margin-bottom: 10%;
+   
+}
+
+.navLogo{
+    display: flex;
+    justify-content: left;
+    
+}
+
+.styleLinks{
+    text-decoration: none;
+    color: rgb(39, 39, 39);
+}
+
+.tituloNav{
+   display: inline-flex;
+   justify-content: flex-start;
+   align-items: center;
+   margin-right: 40%;
+ 
+}
+
+.ulNav{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 20px;
+}
